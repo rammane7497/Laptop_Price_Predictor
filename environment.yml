@@ -1,0 +1,9 @@
+name: laptop
+channels:
+  - defaults
+dependencies:
+  - python
+  - flask=2.2.2
+  - pandas
+  - scikit-learn
+prefix: C:\Users\ramma\.conda\envs\laptop
